@@ -1,0 +1,7 @@
+{
+  "name": "Variety Mart - Online Grocery Store",
+  "description": "A comprehensive online shopping experience for Variety Mart, Jamshedpur. Browse groceries, snacks, personal care, and more with free home delivery options.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
